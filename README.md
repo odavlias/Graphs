@@ -1,7 +1,7 @@
 # Graphs
 A first attempt to create a Graph manipulation package, written in Python.
 
-Files:
+<h1>Files:</h1>
 
 Graph_v1.0.py
 -------------
