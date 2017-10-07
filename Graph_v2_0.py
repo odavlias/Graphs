@@ -10,7 +10,7 @@ class Graph:
 
     def __init__(self, directed = True, weighted = True):
         self.vertices = []
-        self.edges = []
+        self.edges = {}
         self.directed = directed
         self.weighted = weighted
         self.total_vertices = 0
